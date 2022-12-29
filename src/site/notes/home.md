@@ -5,7 +5,7 @@
 
 # 🏠home
 
-Hey, I am [Brian](https://github.com/CodyMan0) and these are my notes.
+Hey, I am [Brian](https://github.com/CodyMan0) and these are my notes
 
 I try to collect my knowledge and I'm adding new notes almost every day.
 
