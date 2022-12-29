@@ -66,12 +66,9 @@ let's check out my  taxonomy way [[5. 제텔카스텐/0단계 - inBox/taxonomy|t
 
 ### 5. 제텔카스텐
 
-| I want to...               | ...play with ideas   |
-|:-------------------------- |:-------------------- |
-| 1단계 - 메모               | [[5. 제텔카스텐/1단계 - 메모/knowledge MOCs|knowledge MOCs]]   |
-| 2단계 - 키워드             | [[keyword MOCs|keyword MOCs]]     |
-| 3단계 - 의견               | [[opinion MOCs|opinion MOCs]]     |
-| 4단계 - 주장               | [[주장 MOCs|주장 MOCs]]        |
-| 5단계 - 두번째 뇌          | [[secondBrain MOCs|secondBrain MOCs]] |
-| Explore my library of MOCs | [[5. 제텔카스텐/0단계 - inBox/+ Library|+ Library]]        |
-
+1단계 - 메모                [[5. 제텔카스텐/1단계 - 메모/knowledge MOCs|knowledge MOCs]]   
+2단계 - 키워드            [[keyword MOCs|keyword MOCs]]     
+3단계 - 의견               [[opinion MOCs|opinion MOCs]]     
+4단계 - 주장               [[주장 MOCs|주장 MOCs]]        
+5단계 - 두번째 뇌          [[secondBrain MOCs|secondBrain MOCs]] 
+Explore my library of MOCs  [[5. 제텔카스텐/0단계 - inBox/+ Library|+ Library]]        
