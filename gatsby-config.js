@@ -7,9 +7,9 @@ module.exports = {
         rootNote: `/home`,
       },
     },
-    `gatsby-plugin-netlify`
+    `gatsby-plugin-netlify`,
   ],
   siteMetadata: {
-    title: `codyManDigitalGarden`,
+    title: `JuYoung's Note`,
   },
 }
