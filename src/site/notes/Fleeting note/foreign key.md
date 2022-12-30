@@ -1,1 +1,0 @@
-foreign key:  that refers to the PRIMARY KEY in another table
